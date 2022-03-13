@@ -217,7 +217,7 @@ a {
 .container-iphonese {
   max-width: 820px;
   height: 100%;
-  margin: 20px auto;
+  margin: 0 auto;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -235,17 +235,17 @@ a {
 
 .container-title-iphonese h1 {
   color: #fafafa;
-  font-size: 48px;
+  font-size: 48px !important;
   text-align: center;
   letter-spacing: -2px;
 }
 
 .container-title-iphonese h3 {
   color: #fafafa;
-  font-size: 24px;
+  font-size: 24px !important;
   text-align: center;
   font-weight: normal;
-  letter-spacing: -1px;
+  letter-spacing: -2px;
 }
 
 .container-title-iphonese p {
