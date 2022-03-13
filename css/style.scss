@@ -308,7 +308,7 @@ a {
   margin: 5px 0px;
   padding-top: 5vh;
 
-  background-image: url("../img/iphone11.png");
+  background-image: url("../src/img/iphone11.png");
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center 100%;
@@ -346,14 +346,14 @@ a {
 
   h1 {
     color: $black1;
-    font-size: 48px;
+    font-size: 48px !important;
     text-align: center;
     letter-spacing: -2px;
   }
 
   h3 {
     color: $black1;
-    font-size: 24px;
+    font-size: 24px !important;
     text-align: center;
     font-weight: normal;
     letter-spacing: -1px;

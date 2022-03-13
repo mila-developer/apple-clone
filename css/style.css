@@ -293,7 +293,7 @@ a {
   height: 70vh;
   margin: 5px 0px;
   padding-top: 5vh;
-  background-image: url("../img/iphone11.png");
+  background-image: url("../src/img/iphone11.png");
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center 100%;
@@ -332,14 +332,14 @@ a {
 
 .container-iphone11 h1 {
   color: #131313;
-  font-size: 48px;
+  font-size: 48px !important;
   text-align: center;
   letter-spacing: -2px;
 }
 
 .container-iphone11 h3 {
   color: #131313;
-  font-size: 24px;
+  font-size: 24px !important;
   text-align: center;
   font-weight: normal;
   letter-spacing: -1px;
